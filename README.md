@@ -1,5 +1,3 @@
-# Car_Rental_DApp
-
 # **Car Rental DApp**
 
 A decentralized application (DApp) for renting cars, built on the Ethereum blockchain. This project allows car owners to list their cars for rent and users to browse available cars and rent them securely using blockchain technology.
